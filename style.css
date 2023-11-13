@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+   display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    margin: 30px;
+    background-color: beige;
+
+}
+img{
+   width: 200px;
+    border-radius: 20px;
+}
+input{
+   background-color: blue;
+    color :white;
+    padding: 0 25px;
+    border-radius: 10px;
+
+}
+
